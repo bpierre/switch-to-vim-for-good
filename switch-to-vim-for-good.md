@@ -2,7 +2,7 @@
 
 ## Non Optional
 
-1. Watch the Derek Wyatt videos in order (at least the “Novices” ones for now): http://derekwyatt.org/vim/tutorials/
+1. Watch the Derek Wyatt videos in order (at least the “Novice” ones for now): http://derekwyatt.org/vim/tutorials/
 2. Read “The Problem with Vim”, just to warn you: http://haldean.org/vim-problems/
 3. Read the first part of this Stack Overflow answer: http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118
 4. Read “Coming Home with Vim” by Steve Losh (entirely): http://stevelosh.com/blog/2010/09/coming-home-to-vim/
