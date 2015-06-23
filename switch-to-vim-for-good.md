@@ -1,15 +1,15 @@
-# Switch to Vim For Good
+# Switch To Vim For Good
 
 Just follow the steps.
 
-## Non optionals
+## Non Optional
 
 1. Watch the Derek Wyatt videos in order (at least the “Novices” ones for now): http://derekwyatt.org/vim/tutorials/
 2. Read “The Problem with Vim”, just to warn you: http://haldean.org/vim-problems/
 3. Read the first part of this Stack Overflow answer: http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118
 4. Read “Coming Home with Vim” by Steve Losh (entirely): http://stevelosh.com/blog/2010/09/coming-home-to-vim/
 
-## Personal advices
+## Personal Advices
 
 - Start with an empty .vimrc, no plugins, no Vim distribution (like Janus). Only add what you understand, do not add too much things at once. Read other people .vimrc files. Vim is about “building”, or configuring, your own editor.
 - Do NOT stay in edit mode! The “normal” mode is called like that for a reason: you should stay in that mode most of the time. Switch to insert mode, insert something, then go back to normal mode.
@@ -21,7 +21,7 @@ Just follow the steps.
 - If you more or less plan to buy a new keyboard, do it. This keyboard is now your Vim keyboard, and that could help you to create a mental switch.
 - You won’t be as productive as with your previous editor until one or two weeks, depending on what you do. Commit. Don’t look back. Your brain will hate it, but don’t listen to him, he will just quickly find a way to be productive again.
 
-## Other things
+## Other Things
 
 - I use Vim in my terminal because I am using [Tmux](http://tmux.github.io/), but a graphical Vim is not “inferior” in any way, feel free to use what you feel will work best for you. MacVim is a good one on OS X, or gVim on Linux / Windows (official graphical Vim).
 - Vimcasts: http://vimcasts.org/
