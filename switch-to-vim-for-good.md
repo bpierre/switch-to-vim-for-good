@@ -1,7 +1,5 @@
 # Switch To Vim For Good
 
-Just follow the steps.
-
 ## Non Optional
 
 1. Watch the Derek Wyatt videos in order (at least the “Novices” ones for now): http://derekwyatt.org/vim/tutorials/
