@@ -9,7 +9,7 @@ Just follow the steps.
 3. Read the first part of this Stack Overflow answer: http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118
 4. Read “Coming Home with Vim” by Steve Losh (entirely): http://stevelosh.com/blog/2010/09/coming-home-to-vim/
 
-## Personal Advices
+## My Advices
 
 - Start with an empty .vimrc, no plugins, no Vim distribution (like Janus). Only add what you understand, do not add too much things at once. Read other people .vimrc files. Vim is about “building”, or configuring, your own editor.
 - Do NOT stay in edit mode! The “normal” mode is called like that for a reason: you should stay in that mode most of the time. Switch to insert mode, insert something, then go back to normal mode.
