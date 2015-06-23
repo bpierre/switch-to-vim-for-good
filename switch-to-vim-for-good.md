@@ -15,7 +15,7 @@
 - Create your own commands everytime you see yourself doing the same thing again and again, especially when entering in command line mode (by pressing [:]). Start by mapping :w<enter> to something faster to type. For me it’s [,s], because [,] is my `<Leader>` key, and [s] is always under my opposite hand.
 - Vim is a game, and you will learn to speak to your editor, using a language. Every time you learn a new noun, you will be able to use it with any verb or adjective that you already know. With the time, every small thing you learn will be more and more powerful because of this.
 - Try to learn new tricks from time to time, and remember to practice them so your brain can assimilate them and use them without even thinking of it.
-- Forget about your arrow keys. If you use them, your brain will never develop any good moving habit. Try to not use hjkl too much. kkkkkllllllllll is not faster than using a mouse: if you repeat the same key more than 3 times, there should be a way to move faster. Find it, and use it.
+- Forget about your arrow keys. If you use them, your brain will never develop any good moving habit. Try to not use hjkl too much. kkkkkllllllllll is not faster than using a mouse: if you repeat the same key more than 3 times, there should be a way to move faster. Find it and use it.
 - If you more or less plan to buy a new keyboard, do it. This keyboard is now your Vim keyboard, and that could help you to create a mental switch.
 - You won’t be as productive as with your previous editor until one or two weeks, depending on what you do. Commit. Don’t look back. Your brain will hate it, but don’t listen to him, he will quickly find a way to be productive again.
 
