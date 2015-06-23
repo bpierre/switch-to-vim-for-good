@@ -1,0 +1,35 @@
+# Switch to Vim For Good
+
+Just follow the steps.
+
+## Non optionals
+
+1. Watch the Derek Wyatt videos in order (at least the “Novices” ones for now): http://derekwyatt.org/vim/tutorials/
+2. Read “The Problem with Vim”, just to warn you: http://haldean.org/vim-problems/
+3. Read the first part of this Stack Overflow answer: http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118
+4. Read “Coming Home with Vim” by Steve Losh (entirely): http://stevelosh.com/blog/2010/09/coming-home-to-vim/
+
+## Personal advices
+
+- Start with an empty .vimrc, no plugins, no Vim distribution (like Janus). Only add what you understand, do not add too much things at once. Read other people .vimrc files. Vim is about “building”, or configuring, your own editor.
+- Do NOT stay in edit mode! The “normal” mode is called like that for a reason: you should stay in that mode most of the time. Switch to insert mode, insert something, then go back to normal mode.
+- Put your .vimrc on GitHub so you can easily use it from everywhere and share it.
+- Create your own commands everytime you see yourself doing the same thing again and again, especially when entering in command line mode (by pressing [:]). Start by mapping :w<enter> to something faster to type. For me it’s [,s], because [,] is my <Leader> key, and [s] is always under my opposite hand.
+- Vim is a game, and you will learn to speak to your editor, using a language. Every time you learn a new noun, you will be able to use it with any verb or adjective that you already know. With the time, every small thing you learn will be more and more powerful because of this.
+- Try to learn new tricks from time to time, and remember to practice them so your brain can assimilate them and use them without even thinking of it.
+- Forget about your arrow keys. If you use them, your brain will never develop any good moving habit. Try to not use hjkl too much. kkkkkllllllllll is not faster than using a mouse.
+- If you more or less plan to buy a new keyboard, do it. This keyboard is now your Vim keyboard, and that could help you to create a mental switch.
+- You won’t be as productive as with your previous editor until one or two weeks, depending on what you do. Commit. Don’t look back. Your brain will hate it, but don’t listen to him, he will just quickly find a way to be productive again.
+
+## Other things
+
+- I use Vim in my terminal because I am using [Tmux](http://tmux.github.io/), but a graphical Vim is not “inferior” in any way, feel free to use what you feel will work best for you. MacVim is a good one on OS X, or gVim on Linux / Windows (official graphical Vim).
+- Vimcasts: http://vimcasts.org/
+- Base16 is a nice theme: http://chriskempson.github.io/base16/
+- _usevim_ is a cool newsletter, subscribe: http://usevim.com/
+- The Vim subreddit: https://www.reddit.com/r/vim/
+- Vim Golf can help to discover new tricks: http://www.vimgolf.com/
+- Vim after 11 years: http://statico.github.io/vim.html
+- Learn Vim Progressively, useful list of commands: http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
+- I am personally using NeoVim, a Vim fork: http://neovim.org/
+- My ugly .vimrc <3 https://github.com/bpierre/dotfiles/blob/master/vimrc
