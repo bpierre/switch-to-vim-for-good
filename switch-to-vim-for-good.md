@@ -21,7 +21,7 @@
 
 ## Other Things
 
-- I use Vim in my terminal because I am using [Tmux](http://tmux.github.io/), but a graphical Vim is not “inferior” in any way, feel free to use what you feel will work best for you. MacVim is a good one on OS X, or gVim on Linux / Windows (official graphical Vim).
+- I use Vim in my terminal because I am using [Tmux](http://tmux.github.io/), but a graphical Vim is not “inferior” in any way, feel free to use what you feel will work best for you. MacVim is a good one on OS X, and gVim on Linux / Windows.
 - Vimcasts: http://vimcasts.org/
 - Base16 is a nice theme: http://chriskempson.github.io/base16/
 - _usevim_ is a cool newsletter, subscribe: http://usevim.com/
