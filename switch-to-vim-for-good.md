@@ -31,3 +31,5 @@
 - Learn Vim Progressively, useful list of commands: http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
 - I am personally using NeoVim, a Vim fork: http://neovim.org/
 - My ugly .vimrc <3 https://github.com/bpierre/dotfiles/blob/master/vimrc
+
+PS: Another approach that seem to work for some people is to take the opposite way: slowly learning Vim by using it as a “normal editor” to start. It didn’t work for me, but maybe it could work for you: http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/
