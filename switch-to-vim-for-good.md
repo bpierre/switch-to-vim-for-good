@@ -17,7 +17,7 @@
 - Try to learn new tricks from time to time, and remember to practice them so your brain can assimilate them and use them without even thinking of it.
 - Forget about your arrow keys. If you use them, your brain will never develop any good moving habit. Try to not use hjkl too much. kkkkkllllllllll is not faster than using a mouse.
 - If you more or less plan to buy a new keyboard, do it. This keyboard is now your Vim keyboard, and that could help you to create a mental switch.
-- You won’t be as productive as with your previous editor until one or two weeks, depending on what you do. Commit. Don’t look back. Your brain will hate it, but don’t listen to him, he will just quickly find a way to be productive again.
+- You won’t be as productive as with your previous editor until one or two weeks, depending on what you do. Commit. Don’t look back. Your brain will hate it, but don’t listen to him, he will quickly find a way to be productive again.
 
 ## Other Things
 
