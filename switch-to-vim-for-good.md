@@ -34,6 +34,7 @@ Some background: my decision to switch to Vim has been made a long time ago. Com
 - The Vim subreddit: https://www.reddit.com/r/vim/
 - Vim Golf can help to discover new tricks: http://www.vimgolf.com/
 - Vim after 11 years: http://statico.github.io/vim.html
+- A Good Vimrc: http://dougblack.io/words/a-good-vimrc.html
 - Learn Vim Progressively, useful list of commands: http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
 - I am personally using NeoVim, a Vim fork: http://neovim.org/
 - My ugly .vimrc <3 https://github.com/bpierre/dotfiles/blob/master/vimrc
