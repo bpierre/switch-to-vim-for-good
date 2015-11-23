@@ -4,6 +4,8 @@ This guide is coming from an email I used to send to newcomers to Vim. It is not
 
 Some background: my decision to switch to Vim has been made a long time ago. Coming from TextMate 1, I wanted to learn an editor that is Open Source (so I don’t lose my time learning a tool that can be killed), cross platform (so I can use it everywhere), and powerful enough (so I won’t regret TextMate). For these reasons, Vim has always been the editor I wanted to learn, but it took me several years before I did it in a way that works for me. I tried to switch progressively, using the [Janus](https://github.com/davelab6/janus) Vim distribution for a few months, then got back to using TextMate 2 for a time, waiting for the next attempt… here is what finally worked for me.
 
+Original gist with comments: https://gist.github.com/bpierre/0a0025d348b6001394e0
+
 ## Non Optional
 
 1. Watch the Derek Wyatt videos in order (at least the “Novice” ones for now): http://derekwyatt.org/vim/tutorials/
