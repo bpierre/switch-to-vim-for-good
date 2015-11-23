@@ -1,8 +1,8 @@
 # Switch To Vim For Good
 
-This guide is coming from an email I used to send to newcomers to Vim. It is not intended to be a complete guide, it is about how I did the switch.
+This guide is coming from an email I used to send to newcomers to Vim. It is not intended to be a complete guide, it is about how I switched myself.
 
-Some background: my decision to switch to Vim has been made a long time ago. Coming from TextMate 1, I wanted to learn an editor that is Open Source (so I don’t lose my time learning a tool that can be killed), cross platform (so I can use it everywhere), and powerful enough (so I won’t regret TextMate). For these reasons, Vim has always been the editor I wanted to learn, but it took me several years before I did it in a way that works for me. I tried to switch progressively, using the [Janus](https://github.com/davelab6/janus) Vim distribution for a few months, then got back to using TextMate 2 for a time, waiting for the next attempt… here is what finally worked for me.
+My decision to switch to Vim has been made a long time ago. Coming from TextMate 1, I wanted to learn an editor that is Open Source (so I don’t lose my time learning a tool that can be killed), cross platform (so I can use it everywhere), and powerful enough (so I won’t regret TextMate). For these reasons, Vim has always been the editor I wanted to learn, but it took me several years before I did it in a way that works for me. I tried to switch progressively, using the [Janus](https://github.com/davelab6/janus) Vim distribution for a few months, then got back to using TextMate 2 for a time, waiting for the next attempt… here is what finally worked for me.
 
 Original gist with comments: https://gist.github.com/bpierre/0a0025d348b6001394e0
 
@@ -41,4 +41,4 @@ Original gist with comments: https://gist.github.com/bpierre/0a0025d348b6001394e
 - I am personally using NeoVim, a Vim fork: http://neovim.org/
 - My ugly .vimrc <3 https://github.com/bpierre/dotfiles/blob/master/vimrc
 
-PS: Another approach that seem to work for some people is to take the opposite way: slowly learning Vim by using it as a “normal editor” to start. It didn’t work for me, but maybe it could work for you: http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/
+Another approach that seem to work for some people is to take the opposite way: slowly learning Vim by using it as a “normal editor” to start. It didn’t work for me, but maybe it could work for you: http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/
