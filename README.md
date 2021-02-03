@@ -38,7 +38,7 @@ Original gist with comments: https://gist.github.com/bpierre/0a0025d348b6001394e
 - Vim after 11 years: http://statico.github.io/vim.html
 - A Good Vimrc: http://dougblack.io/words/a-good-vimrc.html
 - Learn Vim Progressively, useful list of commands: http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
-- I am personally using NeoVim, a Vim fork: http://neovim.org/
+- I am personally using NeoVim, a Vim fork: https://neovim.io/
 - My ugly .vimrc <3 https://github.com/bpierre/dotfiles/blob/master/vimrc
 
 Another approach that seem to work for some people is to take the opposite way: slowly learning Vim by using it as a “normal editor” to start. It didn’t work for me, but maybe it could work for you: http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/
