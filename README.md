@@ -15,7 +15,7 @@ Original gist with comments: https://gist.github.com/bpierre/0a0025d348b6001394e
 5. Read “How to Switch to Vim” by David Bryant Copeland (entirely): http://naildrivin5.com/blog/2013/04/24/how-to-switch-to-vim.html
 6. Read “Coming Home with Vim” by Steve Losh (entirely): http://stevelosh.com/blog/2010/09/coming-home-to-vim/
 
-## My Advices
+## Recommendations
 
 - Start with an empty .vimrc, no plugins, no Vim distribution (like Janus). Only add what you understand, do not add too much things at once. Read other people .vimrc files. Vim is about “building”, or configuring, your own editor.
 - Do NOT stay in edit mode! The “normal” mode is called like that for a reason: you should stay in that mode most of the time. Switch to insert mode, insert something, then go back to normal mode.
